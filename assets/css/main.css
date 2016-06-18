@@ -34,6 +34,11 @@ h1 {
 	margin-bottom: 30px;
 }
 
+h2 {
+	padding: .25em 0 .25em .75em;
+	border-left: 6px solid #ff1493;
+}
+
 
 /* Paragraph & Typographic */
 p {
